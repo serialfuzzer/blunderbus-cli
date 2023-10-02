@@ -6,7 +6,8 @@ I hold no responsibility for any illicit activities carried out using this tool.
 
 To install the blunderbus-cli, execute the following command after cloning the repository:
 
-`$ sudo npm install blunderbus-cli -g`
+`$ git clone https://github.com/serialfuzzer/blunderbus-cli && cd blunderbus-cli`
+`$ sudo npm install -g`
 
 Once installed, the tool can be used via the blunderbus command.
 
